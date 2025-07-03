@@ -30,7 +30,7 @@ An AI-powered web application that allows users to upload a video and interact w
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/multimodal-video-chatbot.git
+git clone https://github.com/Mayank-04/Multimodal-Video-Chatbot
 cd multimodal-video-chatbot
 ```
 
