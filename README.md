@@ -69,9 +69,9 @@ streamlit run app.py
 ```
 
 ## 🙌 Acknowledgments
-	•	Google GenAI SDK
-	•	Agno - AI Agent Framework
-	•	Streamlit
+• Google GenAI SDK
+• Agno - AI Agent Framework
+• Streamlit
 
 ## 📄 License
 
